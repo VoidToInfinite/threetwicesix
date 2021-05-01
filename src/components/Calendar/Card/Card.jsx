@@ -9,41 +9,38 @@ import './Card.css';
  * Component states (Delegated state)
  * @returns JSX DOM
  */
-const Card = ({ Number, Content, Date }) => {
-  
-  return (
-    <div className="card d-flex">
-      <div className="card__title">
-        <h2>
-          <FormattedMessage 
-              id="card.index"
-              defaultMessage="00"
-              values={
+const Card = ({ Number, Content, Date }) => (
+  <div className="card d-flex">
+    <div className="card__title">
+      <h2>
+        <FormattedMessage
+          id="card.index"
+          defaultMessage="00"
+          values={
                 {
-                  number: Number
+                  number: Number,
                 }
               }
-            />
-          </h2>
-      </div>
-      <div className="card__text">
-        <p>
-          {Content.replace(/\u00a0/g, " ")}
-        </p>
-      </div>
-      <div className="card__date">
-        <p>
-          <FormattedDate 
-            value={Date}
-            year="numeric"
-            month="short"
-            day="2-digit"
-          />
-        </p>
-      </div>
+        />
+      </h2>
     </div>
-  );
-};
+    <div className="card__text">
+      <p>
+        {Content.replace(/\u00a0/g, ' ')}
+      </p>
+    </div>
+    <div className="card__date">
+      <p>
+        <FormattedDate
+          value={Date}
+          year="numeric"
+          month="short"
+          day="2-digit"
+        />
+      </p>
+    </div>
+  </div>
+);
 /**
  * Define propTypes types of attributes
  */

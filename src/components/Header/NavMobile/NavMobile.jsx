@@ -1,16 +1,16 @@
 import React, { useContext } from 'react';
-import { langContext } from './../../../context/langContext';
 import classNames from 'classnames';
 import PropTypes from 'prop-types';
+import { langContext } from '../../../context/langContext';
 
 import './NavMobile.css';
 
-import ImgHomeDark from './../../../img/home-dark.svg';
-import ImgHomeLight from './../../../img/home-light.svg';
-import ImgModeDark from './../../../img/moon.svg';
-import ImgModeLight from './../../../img/sunny.svg';
-import esImage from './../../../img/spain.png';
-import enImage from './../../../img/united-kingdom.png';
+import ImgHomeDark from '../../../img/home-dark.svg';
+import ImgHomeLight from '../../../img/home-light.svg';
+import ImgModeDark from '../../../img/moon.svg';
+import ImgModeLight from '../../../img/sunny.svg';
+import esImage from '../../../img/spain.png';
+import enImage from '../../../img/united-kingdom.png';
 
 /**
  * Create a React functional component
@@ -18,34 +18,34 @@ import enImage from './../../../img/united-kingdom.png';
  * @returns JSX DOM
  */
 const NavMobile = ({ darkMode, onNewDarkMode }) => {
-
   const idioma = useContext(langContext);
 
   return (
     <div className="nav-mobile d-none">
       <div className="nav-mobile__item nav-mobile__item--home">
-        <img 
+        <img
           src={darkMode ? ImgHomeLight : ImgHomeDark}
           alt=""
-          onClick={() => { 
+          onClick={() => {
             window.scrollTo({
-                top: 0
+              top: 0,
             });
           }}
-          />
+        />
       </div>
       <div className="nav-mobile__item nav-mobile__item--theme">
-        <img 
+        <img
           src={darkMode ? ImgModeDark : ImgModeLight}
           alt=""
-          onClick={() => { 
+          onClick={() => {
             document.body.classList.toggle('dark-theme');
             if (document.body.classList.contains('dark-theme')) {
-              onNewDarkMode(v => !v)
+              onNewDarkMode((v) => !v);
             } else {
-              onNewDarkMode(false)
+              onNewDarkMode(false);
             }
-          }}/>
+          }}
+        />
       </div>
       <div className="nav-mobile__item nav-mobile__lang">
         <button
@@ -55,16 +55,16 @@ const NavMobile = ({ darkMode, onNewDarkMode }) => {
             'nav-mobile__lang--unactive': idioma.locale === 'en-US',
           })}
         >
-          <img src={esImage} alt=""/>
+          <img src={esImage} alt="" />
         </button>
-				<button
+        <button
           onClick={() => idioma.setLang('es-ES')}
           className={classNames({
             'nav-mobile__lang--active': idioma.locale === 'en-US',
             'nav-mobile__lang--unactive': idioma.locale === 'es-ES',
           })}
         >
-          <img src={enImage} alt=""/>
+          <img src={enImage} alt="" />
         </button>
       </div>
     </div>

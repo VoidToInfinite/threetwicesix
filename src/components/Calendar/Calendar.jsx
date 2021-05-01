@@ -11,11 +11,11 @@ import CardsJSON from './cards.json';
  * @returns JSX DOM
  */
 const Calendar = () => {
-  let InitialCards = CardsJSON.Cards;
+  const InitialCards = CardsJSON.Cards;
   const [actualCards, setNewActualCards] = useState(InitialCards);
   return (
     <div className="calendar d-flex">
-      <SelectorMes onNewCards={ cards => setNewActualCards(cards)} />
+      <SelectorMes onNewCards={(cards) => setNewActualCards(cards)} />
       <Grid cardList={actualCards} />
     </div>
   );

@@ -1,21 +1,21 @@
 /**
  * import necessary libraries
  */
-import React, {useEffect,useState} from 'react';
+import React, { useEffect, useState } from 'react';
 import PropTypes from 'prop-types';
 import { FormattedDate } from 'react-intl';
 
-import InitialCards from './../cards.json';
+import InitialCards from '../cards.json';
 
-const monthNames = ["January", "February", "March", "April", "May", "June",
-  "July", "August", "September", "October", "November", "December"
+const monthNames = ['January', 'February', 'March', 'April', 'May', 'June',
+  'July', 'August', 'September', 'October', 'November', 'December',
 ];
 
-const checkNewMonth = index => {
+const checkNewMonth = (index) => {
   let newMonth;
   if (index > (monthNames.length - 1)) {
     newMonth = monthNames[0];
-  } else if (index < 0 ) { 
+  } else if (index < 0) {
     newMonth = monthNames[monthNames.length + index];
   } else {
     newMonth = monthNames[index];
@@ -23,13 +23,11 @@ const checkNewMonth = index => {
   return newMonth;
 };
 
-const filterCardsByMonth = monthName => {
-  return InitialCards.Cards.filter(( card ) => {
-    let dateNew = new Date(`'${monthNames.indexOf(monthName) + 1}'`);
-    let dateCard = new Date(card.Date);
-    return dateNew.getMonth() == dateCard.getMonth();
-  });
-};
+const filterCardsByMonth = (monthName) => InitialCards.Cards.filter((card) => {
+  const dateNew = new Date(`'${monthNames.indexOf(monthName) + 1}'`);
+  const dateCard = new Date(card.Date);
+  return dateNew.getMonth() === dateCard.getMonth();
+});
 /**
 * Create a React functional component with prop-types
 * Component as stateless presentational component with callback 'onNewMonth'
@@ -38,32 +36,32 @@ const filterCardsByMonth = monthName => {
 const SelectorMes = ({ onNewCards }) => {
   const [actualMonth, setActualMonth] = useState('January');
   useEffect(() => {
-    onNewCards(filterCardsByMonth(checkNewMonth(monthNames.indexOf(actualMonth))))
+    onNewCards(filterCardsByMonth(checkNewMonth(monthNames.indexOf(actualMonth))));
   }, []);
   return (
     <div className="calendar__selector d-flex w-100">
-      <div 
+      <div
         className="calendar__leftArrow soft-shadow"
         onClick={() => {
-          setActualMonth(checkNewMonth(monthNames.indexOf(actualMonth) - 1))
-          onNewCards(filterCardsByMonth(checkNewMonth(monthNames.indexOf(actualMonth) - 1)))
+          setActualMonth(checkNewMonth(monthNames.indexOf(actualMonth) - 1));
+          onNewCards(filterCardsByMonth(checkNewMonth(monthNames.indexOf(actualMonth) - 1)));
         }}
-      ></div>
+      />
       <div className="calendar__month">
         <p>
-          <FormattedDate 
+          <FormattedDate
             value={new Date(`${monthNames.indexOf(actualMonth) + 1}`)}
             month="long"
           />
         </p>
       </div>
-      <div 
+      <div
         className="calendar__rightArrow soft-shadow"
         onClick={() => {
-          setActualMonth(checkNewMonth(monthNames.indexOf(actualMonth) + 1))
-          onNewCards(filterCardsByMonth(checkNewMonth(monthNames.indexOf(actualMonth) + 1)))
+          setActualMonth(checkNewMonth(monthNames.indexOf(actualMonth) + 1));
+          onNewCards(filterCardsByMonth(checkNewMonth(monthNames.indexOf(actualMonth) + 1)));
         }}
-      ></div>
+      />
     </div>
   );
 };
