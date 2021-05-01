@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { FormattedMessage } from 'react-intl';
 import classNames from 'classnames';
 import PropTypes from 'prop-types';
-import { langContext } from '../../../context/langContext';
+import { langContext } from '../../../context';
 
 import './Nav.css';
 
@@ -35,10 +35,9 @@ const Nav = ({ darkMode, onNewDarkMode }) => {
       <div className="nav-bar__list">
         <ul className="nav-bar__list">
           <li className="nav-bar__item--theme">
-            <img
-              src={darkMode ? ImgModeDark : ImgModeLight}
-              alt=""
-              onClick={() => {
+            <button
+              type="button"
+              onMouseDown={() => {
                 document.body.classList.toggle('dark-theme');
                 if (document.body.classList.contains('dark-theme')) {
                   onNewDarkMode((v) => !v);
@@ -46,13 +45,18 @@ const Nav = ({ darkMode, onNewDarkMode }) => {
                   onNewDarkMode(false);
                 }
               }}
-            />
+            >
+              <img src={darkMode ? ImgModeDark : ImgModeLight} alt="" />
+            </button>
           </li>
         </ul>
       </div>
       <div className="nav-bar__lang">
         <button
-          onClick={() => idioma.setLang('en-US')}
+          type="button"
+          onMouseDown={() => {
+            idioma.setLang('en-US');
+          }}
           className={classNames({
             'nav-bar__lang--active': idioma.locale === 'es-ES',
             'nav-bar__lang--unactive': idioma.locale === 'en-US',
@@ -61,7 +65,10 @@ const Nav = ({ darkMode, onNewDarkMode }) => {
           <img src={esImage} alt="" />
         </button>
         <button
-          onClick={() => idioma.setLang('es-ES')}
+          type="button"
+          onMouseDown={() => {
+            idioma.setLang('es-ES');
+          }}
           className={classNames({
             'nav-bar__lang--active': idioma.locale === 'en-US',
             'nav-bar__lang--unactive': idioma.locale === 'es-ES',

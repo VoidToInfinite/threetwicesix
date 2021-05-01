@@ -23,15 +23,25 @@
     width: 28px;
 }
 
-.nav-mobile__item--home img {
+.nav-mobile__item--home button {
     /* box-sizing */
     width: 100%;
+    /* cursor */
+    cursor: pointer;
+    /*  */
+	background: none;
+    border: none;
 }
 
-.nav-mobile__item--theme img {
+.nav-mobile__item--theme button {
     /* box-sizing */
     width: 100%;
-    stroke: var(--primary-color);
+    /* background */
+	background: none;
+    /* cursor */
+	cursor: pointer;
+    /* border */
+    border: none;
 }
 
 .nav-mobile__lang {
@@ -42,9 +52,13 @@
 }
 
 .nav-mobile__lang button {
+    /* border */
     border: none;
+    /* cursor */
 	cursor: pointer;
+    /* background */
 	background: none;
+    /*  */
 	width: 30px;
 }
 

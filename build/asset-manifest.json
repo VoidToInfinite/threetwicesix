@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/threetwicesix/static/css/main.b0537ce3.chunk.css",
+    "main.js": "/threetwicesix/static/js/main.55850de3.chunk.js",
+    "main.js.map": "/threetwicesix/static/js/main.55850de3.chunk.js.map",
+    "runtime-main.js": "/threetwicesix/static/js/runtime-main.7ad063a6.js",
+    "runtime-main.js.map": "/threetwicesix/static/js/runtime-main.7ad063a6.js.map",
+    "static/js/2.26942fd8.chunk.js": "/threetwicesix/static/js/2.26942fd8.chunk.js",
+    "static/js/2.26942fd8.chunk.js.map": "/threetwicesix/static/js/2.26942fd8.chunk.js.map",
+    "index.html": "/threetwicesix/index.html",
+    "static/css/main.b0537ce3.chunk.css.map": "/threetwicesix/static/css/main.b0537ce3.chunk.css.map",
+    "static/js/2.26942fd8.chunk.js.LICENSE.txt": "/threetwicesix/static/js/2.26942fd8.chunk.js.LICENSE.txt",
+    "static/media/discord.e71cda2e.svg": "/threetwicesix/static/media/discord.e71cda2e.svg",
+    "static/media/github.e0df113a.svg": "/threetwicesix/static/media/github.e0df113a.svg",
+    "static/media/home-dark.a7cb6424.svg": "/threetwicesix/static/media/home-dark.a7cb6424.svg",
+    "static/media/home-light.d83c01b1.svg": "/threetwicesix/static/media/home-light.d83c01b1.svg",
+    "static/media/instagram.d031b68e.svg": "/threetwicesix/static/media/instagram.d031b68e.svg",
+    "static/media/linkedin.8adc6acd.svg": "/threetwicesix/static/media/linkedin.8adc6acd.svg",
+    "static/media/moon.108ab13d.svg": "/threetwicesix/static/media/moon.108ab13d.svg",
+    "static/media/sunny.a2181b13.svg": "/threetwicesix/static/media/sunny.a2181b13.svg",
+    "static/media/vtilogo.11c59d93.svg": "/threetwicesix/static/media/vtilogo.11c59d93.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ad063a6.js",
+    "static/js/2.26942fd8.chunk.js",
+    "static/css/main.b0537ce3.chunk.css",
+    "static/js/main.55850de3.chunk.js"
+  ]
+}

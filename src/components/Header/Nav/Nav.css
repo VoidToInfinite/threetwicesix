@@ -91,6 +91,7 @@
 }
 
 @media screen and (min-width: 1200px) {
+    
     .nav-bar__logo {
         /* flex properties */
         flex-basis: 10%;
@@ -108,11 +109,16 @@
         justify-content: center;
     }
 
-    .nav-bar__item--theme img {
+    .nav-bar__item--theme button {
+        /* border */
+        border: none;
+        /* cursor */
+        cursor: pointer;
+        /* background */
+        background: none;
         /* box-sizing */
         height: 20%;
         width: 20%;
-        stroke: var(--primary-color);
         /*  */
         cursor: pointer;
     }

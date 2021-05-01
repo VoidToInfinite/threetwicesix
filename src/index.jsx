@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Router from './router/Router';
-import { LangProvider } from './context/langContext';
+import { LangProvider } from './context';
 
 ReactDOM.render(
   <LangProvider>

@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { IntlProvider } from 'react-intl';
+import PropTypes from 'prop-types';
 import LangUS from '../lang/en-US.json';
 import LangES from '../lang/es-ES.json';
 
@@ -8,7 +9,7 @@ const langContext = React.createContext();
 /**
  * Create a React functional component
  * Component states (Delegated state)
- * @returns JSX DOM with components [WishInput, Wishlist]
+ * @returns JSX DOM
  */
 const LangProvider = ({ children }) => {
   let defaultLocale;
@@ -59,6 +60,21 @@ const LangProvider = ({ children }) => {
   );
 };
 /**
- *  export langContext component
+ * Define propTypes types of attributes
+ */
+LangProvider.propTypes = {
+  children: PropTypes.oneOfType([
+    PropTypes.arrayOf(PropTypes.node),
+    PropTypes.node,
+  ]),
+};
+/**
+ * Define propTypes default value for attributes
+ */
+LangProvider.defaultProps = {
+  children: null,
+};
+/**
+ * export LangProvider component by default
  */
 export { LangProvider, langContext };
