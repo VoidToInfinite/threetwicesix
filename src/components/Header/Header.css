@@ -1,0 +1,8 @@
+.hero {
+    /* box-sizing */
+    height: 100vh;
+    /* felx */
+    flex-flow: column;
+    /* position */
+    position: relative;
+}

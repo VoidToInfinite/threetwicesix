@@ -1,0 +1,54 @@
+.footer {
+    /* box size */
+    height: 20vh;
+    /* display */
+    flex-flow: column;
+    justify-content: space-evenly;
+}
+
+.footer__social {
+    /* box size */
+    height: 10vh;
+    /* display */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer__social__item {
+    /* background */
+    background-color: var(--ancent-color);
+    /* box size */
+    height: 45px;
+    width: 45px;
+    margin: 0 1rem;
+    /* border */
+    border-radius: 15px;
+    /* display */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer__social__item a,
+.footer__social__item a picture img {
+    /* box size */
+    height: 30px;
+    width: 30px;
+}
+
+.footer__copy {
+    /* box size */
+    padding: .5rem 0 0 0;
+    /* display */
+    align-self: center;
+    justify-self: end;
+}
+
+.footer__copy p {
+    /* font */
+    font-size: 12px;
+    font-weight: 300;
+    /* text */
+    color: #868686;
+}

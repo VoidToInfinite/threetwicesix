@@ -1,0 +1,1834 @@
+{
+    "Cards": [
+        {
+            "Number": "1",
+            "Content": "Begining.",
+            "Date": "2020-01-01"
+        },
+        {
+            "Number": "2",
+            "Content": "Contra mas confies en la tecnologia, mas jodido estaras.",
+            "Date": "2020-01-02"
+        },
+        {
+            "Number": "3",
+            "Content": "Si juegas conmigo y ganas, te deberé una, pero recuerda, yo siempre pago.",
+            "Date": "2020-01-03"
+        },
+        {
+            "Number": "4",
+            "Content": "Sintieron y no actuaron.",
+            "Date": "2020-01-04"
+        },
+        {
+            "Number": "5",
+            "Content": "No hay gloria sin esperanza.",
+            "Date": "2020-01-05"
+        },
+        {
+            "Number": "6",
+            "Content": "Un buen cazador siempre mira donde pisa.",
+            "Date": "2020-01-06"
+        },
+        {
+            "Number": "7",
+            "Content": "Valerosa la persona aquella que sigue adelante aceptando su pasado.",
+            "Date": "2020-01-07"
+        },
+        {
+            "Number": "8",
+            "Content": "Un soldado que no lucha, no sirve para nada.",
+            "Date": "2020-01-08"
+        },
+        {
+            "Number": "9",
+            "Content": "Quererte tal y cómo eres.",
+            "Date": "2020-01-09"
+        },
+        {
+            "Number": "10",
+            "Content": "Haz, no veas.",
+            "Date": "2020-01-10"
+        },
+        {
+            "Number": "11",
+            "Content": "Usa el tiempo a favor y no en contra.",
+            "Date": "2020-01-11"
+        },
+        {
+            "Number": "12",
+            "Content": "Disfruta de las pequeñas cosas.",
+            "Date": "2020-01-12"
+        },
+        {
+            "Number": "13",
+            "Content": "¿Quien dijo que no queria verte ayer, hoy, mañana y pasado?",
+            "Date": "2020-01-13"
+        },
+        {
+            "Number": "14",
+            "Content": "No dejes para mañana lo que puedes comer hoy.",
+            "Date": "2020-01-14"
+        },
+        {
+            "Number": "15",
+            "Content": "Sin rencores, pero con memoria.",
+            "Date": "2020-01-15"
+        },
+        {
+            "Number": "16",
+            "Content": "Cuándo alguien es todoterreno, lo que le sobran son caminos.",
+            "Date": "2020-01-16"
+        },
+        {
+            "Number": "17",
+            "Content": "Chocolate pa' mí, chocolate pa' ti, chocolate pa' todos y más para mí.",
+            "Date": "2020-01-17"
+        },
+        {
+            "Number": "18",
+            "Content": "Las leyendas hablan por sí solas.",
+            "Date": "2020-01-18"
+        },
+        {
+            "Number": "19",
+            "Content": "Pureza en la impureza.",
+            "Date": "2020-01-19"
+        },
+        {
+            "Number": "20",
+            "Content": "Labios que no puedes besar con una mirada.",
+            "Date": "2020-01-20"
+        },
+        {
+            "Number": "21",
+            "Content": "Crece y deja crecer.",
+            "Date": "2020-01-21"
+        },
+        {
+            "Number": "22",
+            "Content": "Asúmelo, acéptalo y supéralo.",
+            "Date": "2020-01-22"
+        },
+        {
+            "Number": "23",
+            "Content": "Tienes tiempo, puedo esperar, todavía no es mañana.",
+            "Date": "2020-01-23"
+        },
+        {
+            "Number": "24",
+            "Content": "Saludando a los que se fueron. ¡Ah! Si no están.",
+            "Date": "2020-01-24"
+        },
+        {
+            "Number": "25",
+            "Content": "Pensamientos mundanos volando entre planetas.",
+            "Date": "2020-01-25"
+        },
+        {
+            "Number": "26",
+            "Content": "Unx es niñx para toda la vida.",
+            "Date": "2020-01-26"
+        },
+        {
+            "Number": "27",
+            "Content": "En lo profundo no hay mente sucia, hay mente inocente.",
+            "Date": "2020-01-27"
+        },
+        {
+            "Number": "28",
+            "Content": "Eché personas y aquí sigo.",
+            "Date": "2020-01-28"
+        },
+        {
+            "Number": "29",
+            "Content": "Intenta, falla, aprende y repite.",
+            "Date": "2020-01-29"
+        },
+        {
+            "Number": "30",
+            "Content": "Con tus pupilas gustativas olerás sonidos mojados.",
+            "Date": "2020-01-30"
+        },
+        {
+            "Number": "31",
+            "Content": "Las leyendas nunca mueren.",
+            "Date": "2020-01-31"
+        },
+        {
+            "Number": "32",
+            "Content": "Sentimiento de culpa en interés indebido.",
+            "Date": "2020-02-01"
+        },
+        {
+            "Number": "33",
+            "Content": "Ante debilidad, fuerza. \n\nAnte traición, sangre.",
+            "Date": "2020-02-02"
+        },
+        {
+            "Number": "34",
+            "Content": "Besos entre líneas.",
+            "Date": "2020-02-03"
+        },
+        {
+            "Number": "35",
+            "Content": "Si no estás comodx, levántate y camina.",
+            "Date": "2020-02-04"
+        },
+        {
+            "Number": "36",
+            "Content": "Pagar dos veces por un favor.",
+            "Date": "2020-02-05"
+        },
+        {
+            "Number": "37",
+            "Content": "Solo pierdes si quieres perder.",
+            "Date": "2020-02-06"
+        },
+        {
+            "Number": "38",
+            "Content": "El único comportamiento que podemos controlar es el nuestro.",
+            "Date": "2020-02-07"
+        },
+        {
+            "Number": "39",
+            "Content": "No es un problema si tiene solución.",
+            "Date": "2020-02-08"
+        },
+        {
+            "Number": "40",
+            "Content": "Mucho franco pa' poco brazo.",
+            "Date": "2020-02-09"
+        },
+        {
+            "Number": "41",
+            "Content": "Miré, parpadeé y, todo cambió.",
+            "Date": "2020-02-10"
+        },
+        {
+            "Number": "42",
+            "Content": "La paciencia hace al maestro.",
+            "Date": "2020-02-11"
+        },
+        {
+            "Number": "43",
+            "Content": "Un hombre toma un trago, un trago toma un trago y el trago toma al hombre.",
+            "Date": "2020-02-12"
+        },
+        {
+            "Number": "44",
+            "Content": "Huir de uno mismo, eso es lo difícil.",
+            "Date": "2020-02-13"
+        },
+        {
+            "Number": "45",
+            "Content": "En desacuerdo con el filósofo. \n\n¡Ama! ¡Ama! ¡Ama! ",
+            "Date": "2020-02-14"
+        },
+        {
+            "Number": "46",
+            "Content": "Ninguna persona es inmune al miedo ni a la culpa.",
+            "Date": "2020-02-15"
+        },
+        {
+            "Number": "47",
+            "Content": "La nata no engorda, engordo yo.",
+            "Date": "2020-02-16"
+        },
+        {
+            "Number": "48",
+            "Content": "Me gusta hablar contigo pero no quiero molestarte.",
+            "Date": "2020-02-17"
+        },
+        {
+            "Number": "49",
+            "Content": "Mente sabia, cuerpo joven.",
+            "Date": "2020-02-18"
+        },
+        {
+            "Number": "50",
+            "Content": "Cada persona es única.",
+            "Date": "2020-02-19"
+        },
+        {
+            "Number": "51",
+            "Content": "Tú siempre vas a permanecer siendo tú.",
+            "Date": "2020-02-20"
+        },
+        {
+            "Number": "52",
+            "Content": "La decepción, al traición hermanx.",
+            "Date": "2020-02-21"
+        },
+        {
+            "Number": "53",
+            "Content": "Sonríe, hoy será un gran día.",
+            "Date": "2020-02-22"
+        },
+        {
+            "Number": "54",
+            "Content": "Si ayer no sonreíste, hoy no llores.",
+            "Date": "2020-02-23"
+        },
+        {
+            "Number": "55",
+            "Content": "- * - = + ",
+            "Date": "2020-02-24"
+        },
+        {
+            "Number": "56",
+            "Content": "Es difícil estar enfadadx con la nada.",
+            "Date": "2020-02-25"
+        },
+        {
+            "Number": "57",
+            "Content": "La confianza es más frágil de lo que parece.",
+            "Date": "2020-02-26"
+        },
+        {
+            "Number": "58",
+            "Content": "El orden de los elementos altera el producto.",
+            "Date": "2020-02-27"
+        },
+        {
+            "Number": "59",
+            "Content": "Vida al tiempo.",
+            "Date": "2020-02-28"
+        },
+        {
+            "Number": "60",
+            "Content": "Un demonio necesario.",
+            "Date": "2020-02-29"
+        },
+        {
+            "Number": "61",
+            "Content": "Sucesivamente.",
+            "Date": "2020-03-01"
+        },
+        {
+            "Number": "62",
+            "Content": "Tus valores importan.",
+            "Date": "2020-03-02"
+        },
+        {
+            "Number": "63",
+            "Content": "Cuándo tu alma se haga cenizas, tendrás permiso para morir.",
+            "Date": "2020-03-03"
+        },
+        {
+            "Number": "64",
+            "Content": "Tú decides tu propia muerte.",
+            "Date": "2020-03-04"
+        },
+        {
+            "Number": "65",
+            "Content": "He aquí la voz de Dios.",
+            "Date": "2020-03-05"
+        },
+        {
+            "Number": "66",
+            "Content": "Mira al Diablo a los ojos.",
+            "Date": "2020-03-06"
+        },
+        {
+            "Number": "67",
+            "Content": "Hacerse viejo es un regalo.",
+            "Date": "2020-03-07"
+        },
+        {
+            "Number": "68",
+            "Content": "Smile, have a nice day and repeat.",
+            "Date": "2020-03-08"
+        },
+        {
+            "Number": "69",
+            "Content": "El triangulo joder, estudia.",
+            "Date": "2020-03-09"
+        },
+        {
+            "Number": "70",
+            "Content": "El deseo se convierte en entrega, la entrega se convierte en poder.",
+            "Date": "2020-03-10"
+        },
+        {
+            "Number": "71",
+            "Content": "Si esa persona está loca, yo también.",
+            "Date": "2020-03-11"
+        },
+        {
+            "Number": "72",
+            "Content": "Uno que no creía en los zombies y actúan cómo ellos.",
+            "Date": "2020-03-12"
+        },
+        {
+            "Number": "73",
+            "Content": "Esperaron a un virus para responsabilizarse correctamente.",
+            "Date": "2020-03-13"
+        },
+        {
+            "Number": "74",
+            "Content": "El consumo mas importante es el tiempo.",
+            "Date": "2020-03-14"
+        },
+        {
+            "Number": "75",
+            "Content": "Not a human.",
+            "Date": "2020-03-15"
+        },
+        {
+            "Number": "76",
+            "Content": "Tiempo me sobra, paciencia no.",
+            "Date": "2020-03-16"
+        },
+        {
+            "Number": "77",
+            "Content": "Se me ha olvidado lo que iba a decir.",
+            "Date": "2020-03-17"
+        },
+        {
+            "Number": "78",
+            "Content": "Si lo quieres lo tienes.",
+            "Date": "2020-03-18"
+        },
+        {
+            "Number": "79",
+            "Content": "Valor y coraje.",
+            "Date": "2020-03-19"
+        },
+        {
+            "Number": "80",
+            "Content": "Un mundo más allá del tiempo.",
+            "Date": "2020-03-20"
+        },
+        {
+            "Number": "81",
+            "Content": "La crisis es un cambio.",
+            "Date": "2020-03-21"
+        },
+        {
+            "Number": "82",
+            "Content": "No hace falta asesinar para acabar con una vida.",
+            "Date": "2020-03-22"
+        },
+        {
+            "Number": "83",
+            "Content": "Debería de apuntarme esa.",
+            "Date": "2020-03-23"
+        },
+        {
+            "Number": "84",
+            "Content": "Vivir y cambiar los hechos no es vivir.",
+            "Date": "2020-03-24"
+        },
+        {
+            "Number": "85",
+            "Content": "Los hombres van a la guerra en busca de algo.",
+            "Date": "2020-03-25"
+        },
+        {
+            "Number": "86",
+            "Content": "Una cámara es más peligrosa que un arma.",
+            "Date": "2020-03-26"
+        },
+        {
+            "Number": "87",
+            "Content": "Tu problema es que no puedes soltar a las personas.",
+            "Date": "2020-03-27"
+        },
+        {
+            "Number": "88",
+            "Content": "Si se da…",
+            "Date": "2020-03-28"
+        },
+        {
+            "Number": "89",
+            "Content": "Vivir o morir.",
+            "Date": "2020-03-29"
+        },
+        {
+            "Number": "90",
+            "Content": "No sé qué hacer con el tiempo si el tiempo no sabe qué hacer conmigo.",
+            "Date": "2020-03-30"
+        },
+        {
+            "Number": "91",
+            "Content": "Aquí no hay más que locura.",
+            "Date": "2020-03-31"
+        },
+        {
+            "Number": "92",
+            "Content": "Desesperación.",
+            "Date": "2020-04-01"
+        },
+        {
+            "Number": "93",
+            "Content": "Tengo enemigos y son to’…",
+            "Date": "2020-04-02"
+        },
+        {
+            "Number": "94",
+            "Content": "Simplemente hombres y simplemente mujeres.",
+            "Date": "2020-04-03"
+        },
+        {
+            "Number": "95",
+            "Content": "Nadando entre sentimientos.",
+            "Date": "2020-04-04"
+        },
+        {
+            "Number": "96",
+            "Content": "Yo me baño en aceite y lo que me digan me resbala.",
+            "Date": "2020-04-05"
+        },
+        {
+            "Number": "97",
+            "Content": "Eres la luna inconsciente del amanecer.",
+            "Date": "2020-04-06"
+        },
+        {
+            "Number": "98",
+            "Content": "Ésto es valor, los siento y lo digo.",
+            "Date": "2020-04-07"
+        },
+        {
+            "Number": "99",
+            "Content": "Yo no sé soltar, me acostumbré a que me dejasen.",
+            "Date": "2020-04-08"
+        },
+        {
+            "Number": "100",
+            "Content": "Soy la oveja desconocida de una oveja negra.",
+            "Date": "2020-04-09"
+        },
+        {
+            "Number": "101",
+            "Content": "Dueño de mis paredes, dueño de mi dormitorio. De mi más largo sueño.",
+            "Date": "2020-04-10"
+        },
+        {
+            "Number": "102",
+            "Content": "Paso a paso.",
+            "Date": "2020-04-11"
+        },
+        {
+            "Number": "103",
+            "Content": "¿Qué hacer ahora?",
+            "Date": "2020-04-12"
+        },
+        {
+            "Number": "104",
+            "Content": "Cómo bueno se puso el día, así deberías estar tú.",
+            "Date": "2020-04-13"
+        },
+        {
+            "Number": "105",
+            "Content": "La única droga permitida es la felicidad.",
+            "Date": "2020-04-14"
+        },
+        {
+            "Number": "106",
+            "Content": "Keep moving forward",
+            "Date": "2020-04-15"
+        },
+        {
+            "Number": "107",
+            "Content": "La primera carrera en la vida es llegando al óvulo, broh.",
+            "Date": "2020-04-16"
+        },
+        {
+            "Number": "108",
+            "Content": "Me ganó el sueño al no poder verte.",
+            "Date": "2020-04-17"
+        },
+        {
+            "Number": "109",
+            "Content": "Corazón grande, mundo pequeño.",
+            "Date": "2020-04-18"
+        },
+        {
+            "Number": "110",
+            "Content": "TSK TSK TSK TSK \n\n-Nm",
+            "Date": "2020-04-19"
+        },
+        {
+            "Number": "111",
+            "Content": "No llores…",
+            "Date": "2020-04-20"
+        },
+        {
+            "Number": "112",
+            "Content": "Viviendo en la soledad se forjan las grandes personas.",
+            "Date": "2020-04-21"
+        },
+        {
+            "Number": "113",
+            "Content": "siempre fue un placer haberte conocido.",
+            "Date": "2020-04-22"
+        },
+        {
+            "Number": "114",
+            "Content": "Ha pasado tiempo y, me acabo de acordar de lo que te quería decir.",
+            "Date": "2020-04-23"
+        },
+        {
+            "Number": "115",
+            "Content": "Minar la mente de un demente es consecuente a dañarle la mente.",
+            "Date": "2020-04-24"
+        },
+        {
+            "Number": "116",
+            "Content": "Creo que me he repetido, sorry.",
+            "Date": "2020-04-25"
+        },
+        {
+            "Number": "117",
+            "Content": "Hoy he dado un paso.",
+            "Date": "2020-04-26"
+        },
+        {
+            "Number": "118",
+            "Content": "Me has dejado sin palabras.",
+            "Date": "2020-04-27"
+        },
+        {
+            "Number": "119",
+            "Content": "Don’t just exist, live.",
+            "Date": "2020-04-28"
+        },
+        {
+            "Number": "120",
+            "Content": "Hay un último día para todas las cosas.",
+            "Date": "2020-04-29"
+        },
+        {
+            "Number": "121",
+            "Content": "No se puede encontrar la paz evitando la vida.",
+            "Date": "2020-04-30"
+        },
+        {
+            "Number": "122",
+            "Content": "Sí.",
+            "Date": "2020-05-01"
+        },
+        {
+            "Number": "123",
+            "Content": "Vi la libertad en sus ojos.",
+            "Date": "2020-05-02"
+        },
+        {
+            "Number": "124",
+            "Content": "Tha sky is yours, if you’re willing to own it.",
+            "Date": "2020-05-03"
+        },
+        {
+            "Number": "125",
+            "Content": "Deep conversation.",
+            "Date": "2020-05-04"
+        },
+        {
+            "Number": "126",
+            "Content": "Desconfianza insana.",
+            "Date": "2020-05-05"
+        },
+        {
+            "Number": "127",
+            "Content": "Viviendo siendo el mismo infierno.",
+            "Date": "2020-05-06"
+        },
+        {
+            "Number": "128",
+            "Content": "¿Pa’ qué más?",
+            "Date": "2020-05-07"
+        },
+        {
+            "Number": "129",
+            "Content": "La he dejado ahí a media, pero bueno…",
+            "Date": "2020-05-08"
+        },
+        {
+            "Number": "130",
+            "Content": "Léelo soñando y suéñalo literalmente.",
+            "Date": "2020-05-09"
+        },
+        {
+            "Number": "131",
+            "Content": "Vivamos el momento.",
+            "Date": "2020-05-10"
+        },
+        {
+            "Number": "132",
+            "Content": "De los creadores de kiwi, les presento a juguito de mora.",
+            "Date": "2020-05-11"
+        },
+        {
+            "Number": "133",
+            "Content": "Y cómo dije en su día… Solo me importa…",
+            "Date": "2020-05-12"
+        },
+        {
+            "Number": "134",
+            "Content": "El trabajo de los adultos es proteger los sueños de lx niñxs.",
+            "Date": "2020-05-13"
+        },
+        {
+            "Number": "135",
+            "Content": "Me pregunto, si alguien te besa, ¿se le para el tiempo?",
+            "Date": "2020-05-14"
+        },
+        {
+            "Number": "136",
+            "Content": "Adoro.",
+            "Date": "2020-05-15"
+        },
+        {
+            "Number": "137",
+            "Content": "Terminar lo que empezamos.",
+            "Date": "2020-05-16"
+        },
+        {
+            "Number": "138",
+            "Content": "En la oscuridad encontré mi brillo propio.",
+            "Date": "2020-05-17"
+        },
+        {
+            "Number": "139",
+            "Content": "Cada vez más, va apagándose la luz…",
+            "Date": "2020-05-18"
+        },
+        {
+            "Number": "140",
+            "Content": "Es épico.",
+            "Date": "2020-05-19"
+        },
+        {
+            "Number": "141",
+            "Content": " No hay futuro si no arreglas el presente.",
+            "Date": "2020-05-20"
+        },
+        {
+            "Number": "142",
+            "Content": "Si no es interesante, no es importante.",
+            "Date": "2020-05-21"
+        },
+        {
+            "Number": "143",
+            "Content": "Que sí, tú confía.",
+            "Date": "2020-05-22"
+        },
+        {
+            "Number": "144",
+            "Content": "¿Intentas comparar tu camino recto con mi camino con curvas?",
+            "Date": "2020-05-23"
+        },
+        {
+            "Number": "145",
+            "Content": "Es cómo un dolor de muelas. No dejo de pensar en ti.",
+            "Date": "2020-05-24"
+        },
+        {
+            "Number": "146",
+            "Content": "¿Hay algo que pueda hacer más fuerte a un hombre que el amor?",
+            "Date": "2020-05-25"
+        },
+        {
+            "Number": "147",
+            "Content": "Veo futuro en ti y en mí claro",
+            "Date": "2020-05-26"
+        },
+        {
+            "Number": "148",
+            "Content": "Y’re the most … of the world.",
+            "Date": "2020-05-27"
+        },
+        {
+            "Number": "149",
+            "Content": "No se puede cambiar el pasado, pero podemos seguir creando nuestro presente y planear nuestro futuro.",
+            "Date": "2020-05-28"
+        },
+        {
+            "Number": "150",
+            "Content": "Va ser que no.",
+            "Date": "2020-05-29"
+        },
+        {
+            "Number": "151",
+            "Content": "Loco soy, enfermo no estoy.",
+            "Date": "2020-05-30"
+        },
+        {
+            "Number": "152",
+            "Content": "Pequeña pero letal.",
+            "Date": "2020-05-31"
+        },
+        {
+            "Number": "153",
+            "Content": "Así es la vida.",
+            "Date": "2020-06-01"
+        },
+        {
+            "Number": "154",
+            "Content": "Nada en ésta vida es fijo.",
+            "Date": "2020-06-02"
+        },
+        {
+            "Number": "155",
+            "Content": "Alegría en una sola palabra.",
+            "Date": "2020-06-03"
+        },
+        {
+            "Number": "156",
+            "Content": "Poco a poco nos vamos conociendo.",
+            "Date": "2020-06-04"
+        },
+        {
+            "Number": "157",
+            "Content": "No hay serenata ni flores.",
+            "Date": "2020-06-05"
+        },
+        {
+            "Number": "158",
+            "Content": "Y tú ooooooooffff. \nY yo ooooooooffff. \nY nosotros ooooooooffff.",
+            "Date": "2020-06-06"
+        },
+        {
+            "Number": "159",
+            "Content": "Que poca gente tiene la clase.",
+            "Date": "2020-06-07"
+        },
+        {
+            "Number": "160",
+            "Content": "¿De qué vale arrepentirse cuándo te haces a ti lo qué hiciste?",
+            "Date": "2020-06-08"
+        },
+        {
+            "Number": "161",
+            "Content": "¿Perder? \n\nEl único momento en el que pierdes es, cuándo no sabes vivir.",
+            "Date": "2020-06-09"
+        },
+        {
+            "Number": "162",
+            "Content": "Otra vez, otra vez te volví a pensar. Otra vez.",
+            "Date": "2020-06-10"
+        },
+        {
+            "Number": "163",
+            "Content": "Madurar para ser grande.",
+            "Date": "2020-06-11"
+        },
+        {
+            "Number": "164",
+            "Content": "Cómo lx veo yo, entiende eso.",
+            "Date": "2020-06-12"
+        },
+        {
+            "Number": "165",
+            "Content": "Want u feel me?",
+            "Date": "2020-06-13"
+        },
+        {
+            "Number": "166",
+            "Content": "Tú no sientes, eres el diablo.",
+            "Date": "2020-06-14"
+        },
+        {
+            "Number": "167",
+            "Content": "La perfección no sabe de prisas.",
+            "Date": "2020-06-15"
+        },
+        {
+            "Number": "168",
+            "Content": "Sentio ergo sum.",
+            "Date": "2020-06-16"
+        },
+        {
+            "Number": "169",
+            "Content": "Mente poderosa prestigiosa.",
+            "Date": "2020-06-17"
+        },
+        {
+            "Number": "170",
+            "Content": "Inconscientemente sabes cuál no es la realidad.",
+            "Date": "2020-06-18"
+        },
+        {
+            "Number": "171",
+            "Content": "Todo lo divino habido y por haber.",
+            "Date": "2020-06-19"
+        },
+        {
+            "Number": "172",
+            "Content": "Hola. \n\nMe gustas, ¿te gusto?",
+            "Date": "2020-06-20"
+        },
+        {
+            "Number": "173",
+            "Content": "El día perfecto.",
+            "Date": "2020-06-21"
+        },
+        {
+            "Number": "174",
+            "Content": "Mas vale el mejor positivismo.",
+            "Date": "2020-06-22"
+        },
+        {
+            "Number": "175",
+            "Content": "Gilipollas.",
+            "Date": "2020-06-23"
+        },
+        {
+            "Number": "176",
+            "Content": "No hay ambiente mas caliente que yo.",
+            "Date": "2020-06-24"
+        },
+        {
+            "Number": "177",
+            "Content": "Aguantaré las subidas y bajadas, los giros y las rectas.",
+            "Date": "2020-06-25"
+        },
+        {
+            "Number": "178",
+            "Content": "El Diablo no es el único con dos caras.",
+            "Date": "2020-06-26"
+        },
+        {
+            "Number": "179",
+            "Content": "Ahí estaré, no te rindas.",
+            "Date": "2020-06-27"
+        },
+        {
+            "Number": "180",
+            "Content": "El castigo es por un buen motivo.",
+            "Date": "2020-06-28"
+        },
+        {
+            "Number": "181",
+            "Content": "No soy nadie para muchos. \n\nNadie para todos. \n\nNadie para ninguno. \n\nNadie para nada.",
+            "Date": "2020-06-29"
+        },
+        {
+            "Number": "182",
+            "Content": "¿Esperabas que no siguiese?",
+            "Date": "2020-06-30"
+        },
+        {
+            "Number": "183",
+            "Content": "Única en un cielo de estrellas comunes.",
+            "Date": "2020-07-01"
+        },
+        {
+            "Number": "184",
+            "Content": "Convirtiéndome en una leyenda.",
+            "Date": "2020-07-02"
+        },
+        {
+            "Number": "185",
+            "Content": "El hoy es una sorpresa, el ayer una experiencia y el mañana un regalo. \n\n– Gran sabio",
+            "Date": "2020-07-03"
+        },
+        {
+            "Number": "186",
+            "Content": "Con o sin resultado, siempre he formado parte de la ecuación.",
+            "Date": "2020-07-04"
+        },
+        {
+            "Number": "187",
+            "Content": "Buena historia de vida para nada.",
+            "Date": "2020-07-05"
+        },
+        {
+            "Number": "188",
+            "Content": "Porque quiero…",
+            "Date": "2020-07-06"
+        },
+        {
+            "Number": "189",
+            "Content": "Los que nunca fallan, el buen visto.",
+            "Date": "2020-07-07"
+        },
+        {
+            "Number": "190",
+            "Content": "Y’all, good news.",
+            "Date": "2020-07-08"
+        },
+        {
+            "Number": "191",
+            "Content": "Crees qué no sé nada, dejemos qué sea así.",
+            "Date": "2020-07-09"
+        },
+        {
+            "Number": "192",
+            "Content": "Un error, no se necesita más.",
+            "Date": "2020-07-10"
+        },
+        {
+            "Number": "193",
+            "Content": "En veces sé decírtelo. \n\n¿A veces, qué más da?",
+            "Date": "2020-07-11"
+        },
+        {
+            "Number": "194",
+            "Content": "Odiar es un sentimiento que no cualquier persona merece.",
+            "Date": "2020-07-12"
+        },
+        {
+            "Number": "195",
+            "Content": "Si algún día se me olvida, no será mi culpa.",
+            "Date": "2020-07-13"
+        },
+        {
+            "Number": "196",
+            "Content": "Tu realidad puede ser verdad si no te acuerdas.",
+            "Date": "2020-07-14"
+        },
+        {
+            "Number": "197",
+            "Content": "Llegué a leer una frase que me tocó el cora, ojalá volver a leerla.",
+            "Date": "2020-07-15"
+        },
+        {
+            "Number": "198",
+            "Content": "Hay que tener cuidado con lo qué decimos.",
+            "Date": "2020-07-16"
+        },
+        {
+            "Number": "199",
+            "Content": "El tiempo y espacio que pediste, recuerda que es irrecuperable.",
+            "Date": "2020-07-17"
+        },
+        {
+            "Number": "200",
+            "Content": "I would do us all over again.",
+            "Date": "2020-07-18"
+        },
+        {
+            "Number": "201",
+            "Content": "Si estás leyendo ésto, te doy las gracias. \n\nSi brillas, haz brillar a los demás.",
+            "Date": "2020-07-19"
+        },
+        {
+            "Number": "202",
+            "Content": "No perdí la esperanza al no tener nada.",
+            "Date": "2020-07-20"
+        },
+        {
+            "Number": "203",
+            "Content": "No escucho cuando me miras.",
+            "Date": "2020-07-21"
+        },
+        {
+            "Number": "204",
+            "Content": "Irreplaceable.",
+            "Date": "2020-07-22"
+        },
+        {
+            "Number": "205",
+            "Content": "Sí, puedes descansar cuándo termines.",
+            "Date": "2020-07-23"
+        },
+        {
+            "Number": "206",
+            "Content": "Diría más palabras, pero dije las justas y necesarias.",
+            "Date": "2020-07-24"
+        },
+        {
+            "Number": "207",
+            "Content": "¿La ceguera en lo evidente es inevitable?",
+            "Date": "2020-07-25"
+        },
+        {
+            "Number": "208",
+            "Content": "Sigo diciendo que no es suficiente.",
+            "Date": "2020-07-26"
+        },
+        {
+            "Number": "209",
+            "Content": "Directo y sin miedo.",
+            "Date": "2020-07-27"
+        },
+        {
+            "Number": "210",
+            "Content": "Al abandonar, caminas solx.",
+            "Date": "2020-07-28"
+        },
+        {
+            "Number": "211",
+            "Content": "Uno a veces se queda pensando qué decir, para al final decir lo que no había pensado.",
+            "Date": "2020-07-29"
+        },
+        {
+            "Number": "212",
+            "Content": "¿Será verdad?",
+            "Date": "2020-07-30"
+        },
+        {
+            "Number": "213",
+            "Content": "En cada parte hay dolor.",
+            "Date": "2020-07-31"
+        },
+        {
+            "Number": "214",
+            "Content": "La mentira también define tu personalidad.",
+            "Date": "2020-08-01"
+        },
+        {
+            "Number": "215",
+            "Content": "La soledad acaba afectando a la mente.",
+            "Date": "2020-08-02"
+        },
+        {
+            "Number": "216",
+            "Content": "Pon empeño y corazón.",
+            "Date": "2020-08-03"
+        },
+        {
+            "Number": "217",
+            "Content": "Todo común.",
+            "Date": "2020-08-04"
+        },
+        {
+            "Number": "218",
+            "Content": "Responsabilidad propia.",
+            "Date": "2020-08-05"
+        },
+        {
+            "Number": "219",
+            "Content": "Ánimo gente.",
+            "Date": "2020-08-06"
+        },
+        {
+            "Number": "220",
+            "Content": "No siempre puede uno elegir.",
+            "Date": "2020-08-07"
+        },
+        {
+            "Number": "221",
+            "Content": "Hasta que la mentira nos separe.",
+            "Date": "2020-08-08"
+        },
+        {
+            "Number": "222",
+            "Content": "Son cifras que no se esperaban.",
+            "Date": "2020-08-09"
+        },
+        {
+            "Number": "223",
+            "Content": "¿Cómo le dan forma a algo qué no existe?",
+            "Date": "2020-08-10"
+        },
+        {
+            "Number": "224",
+            "Content": "Vanidosx.",
+            "Date": "2020-08-11"
+        },
+        {
+            "Number": "225",
+            "Content": "A decir verdad, no te voy a mentir.",
+            "Date": "2020-08-12"
+        },
+        {
+            "Number": "226",
+            "Content": "Ésto es todo tuyo.",
+            "Date": "2020-08-13"
+        },
+        {
+            "Number": "227",
+            "Content": "Que te invada el positivismo.",
+            "Date": "2020-08-14"
+        },
+        {
+            "Number": "228",
+            "Content": "Lo más poderoso de la persona, es…",
+            "Date": "2020-08-15"
+        },
+        {
+            "Number": "229",
+            "Content": "Estamos para protegernos.",
+            "Date": "2020-08-16"
+        },
+        {
+            "Number": "230",
+            "Content": "De tú a tú.",
+            "Date": "2020-08-17"
+        },
+        {
+            "Number": "231",
+            "Content": "Nowadays.",
+            "Date": "2020-08-18"
+        },
+        {
+            "Number": "232",
+            "Content": "Para crear es necesario destruir.",
+            "Date": "2020-08-19"
+        },
+        {
+            "Number": "233",
+            "Content": "Error.  No hay un final si tiene un comienzo.",
+            "Date": "2020-08-20"
+        },
+        {
+            "Number": "234",
+            "Content": "Sí, te elegí a ti cómo alma pasante. ¿Y tú?",
+            "Date": "2020-08-21"
+        },
+        {
+            "Number": "235",
+            "Content": "Se optimizó correctamente.",
+            "Date": "2020-08-22"
+        },
+        {
+            "Number": "236",
+            "Content": "La tardanza.",
+            "Date": "2020-08-23"
+        },
+        {
+            "Number": "237",
+            "Content": "Nice job fella.",
+            "Date": "2020-08-24"
+        },
+        {
+            "Number": "238",
+            "Content": "Mejor saber y razonar.",
+            "Date": "2020-08-25"
+        },
+        {
+            "Number": "239",
+            "Content": "Se tu proyecto en el futuro.",
+            "Date": "2020-08-26"
+        },
+        {
+            "Number": "240",
+            "Content": "El cansancio aumenta.",
+            "Date": "2020-08-27"
+        },
+        {
+            "Number": "241",
+            "Content": "No habrá paz para los malvados.",
+            "Date": "2020-08-28"
+        },
+        {
+            "Number": "242",
+            "Content": "La naranja mecánica.",
+            "Date": "2020-08-29"
+        },
+        {
+            "Number": "243",
+            "Content": "Tengo un siervo llamado tiempo que se venga por mí.",
+            "Date": "2020-08-30"
+        },
+        {
+            "Number": "244",
+            "Content": "De tanto papel higiénico comprado, y no veo que les brille la parte trasera.",
+            "Date": "2020-08-31"
+        },
+        {
+            "Number": "245",
+            "Content": "Cómo si es mañana mismo.",
+            "Date": "2020-09-01"
+        },
+        {
+            "Number": "246",
+            "Content": "Pienso en lo que dijimos y nada pasó.",
+            "Date": "2020-09-02"
+        },
+        {
+            "Number": "247",
+            "Content": "Algo así: \n\nDos almas unidas vivientes de caminos diferentes ignorantes de los distante.",
+            "Date": "2020-09-03"
+        },
+        {
+            "Number": "248",
+            "Content": "Me encanta cuando trabajan juntos.",
+            "Date": "2020-09-04"
+        },
+        {
+            "Number": "249",
+            "Content": "Sí, fallé. \n\nAhora mismo el agua se evapora.",
+            "Date": "2020-09-05"
+        },
+        {
+            "Number": "250",
+            "Content": "Nuevos pensamientos, ideas, metas, proyectos y futuro.",
+            "Date": "2020-09-06"
+        },
+        {
+            "Number": "251",
+            "Content": "¡Ay! ¡Qué locura!",
+            "Date": "2020-09-07"
+        },
+        {
+            "Number": "252",
+            "Content": "Jugando con la amistad.",
+            "Date": "2020-09-08"
+        },
+        {
+            "Number": "253",
+            "Content": "La viciada de la vida con la felicidad.",
+            "Date": "2020-09-09"
+        },
+        {
+            "Number": "254",
+            "Content": "Generando ganancias.",
+            "Date": "2020-09-10"
+        },
+        {
+            "Number": "255",
+            "Content": "Ni idea de lo que está sucediendo.",
+            "Date": "2020-09-11"
+        },
+        {
+            "Number": "256",
+            "Content": "Hola, buenos días.  ¿Desea usted viajar?",
+            "Date": "2020-09-12"
+        },
+        {
+            "Number": "257",
+            "Content": "Welcome to the team.",
+            "Date": "2020-09-13"
+        },
+        {
+            "Number": "258",
+            "Content": "Privilegios, nada más.",
+            "Date": "2020-09-14"
+        },
+        {
+            "Number": "259",
+            "Content": "Un camino que poco a poco se va alargando.",
+            "Date": "2020-09-15"
+        },
+        {
+            "Number": "260",
+            "Content": "Poder recordar dicha frase orada por el viejo sabio.",
+            "Date": "2020-09-16"
+        },
+        {
+            "Number": "261",
+            "Content": "Aprende lo aprendido \n\nGran título para iniciar la semana.",
+            "Date": "2020-09-17"
+        },
+        {
+            "Number": "262",
+            "Content": "El tiempo no espera a nadie.",
+            "Date": "2020-09-18"
+        },
+        {
+            "Number": "263",
+            "Content": "Entre nosotros.",
+            "Date": "2020-09-19"
+        },
+        {
+            "Number": "264",
+            "Content": "¿Ya terminaste de estudiar?",
+            "Date": "2020-09-20"
+        },
+        {
+            "Number": "265",
+            "Content": "Nuevo día misma actitud.",
+            "Date": "2020-09-21"
+        },
+        {
+            "Number": "266",
+            "Content": "100 días.",
+            "Date": "2020-09-22"
+        },
+        {
+            "Number": "267",
+            "Content": "No espere que te llene algo cuándo no te sientas motivadx.",
+            "Date": "2020-09-23"
+        },
+        {
+            "Number": "268",
+            "Content": "Todo estará bien.",
+            "Date": "2020-09-24"
+        },
+        {
+            "Number": "269",
+            "Content": "El comportamiento humano.",
+            "Date": "2020-09-25"
+        },
+        {
+            "Number": "270",
+            "Content": "Learnining English, ma’am.",
+            "Date": "2020-09-26"
+        },
+        {
+            "Number": "271",
+            "Content": "Vivir en un mundo de muertos.",
+            "Date": "2020-09-27"
+        },
+        {
+            "Number": "272",
+            "Content": "Sinónimo de punto y coma con resumen y puntos suspensivos.",
+            "Date": "2020-09-28"
+        },
+        {
+            "Number": "273",
+            "Content": "No animations.",
+            "Date": "2020-09-29"
+        },
+        {
+            "Number": "274",
+            "Content": "**** days.",
+            "Date": "2020-09-30"
+        },
+        {
+            "Number": "275",
+            "Content": "9 ¾",
+            "Date": "2020-10-01"
+        },
+        {
+            "Number": "276",
+            "Content": "Se juntan todos los astros.",
+            "Date": "2020-10-02"
+        },
+        {
+            "Number": "277",
+            "Content": "Cada oveja con su pareja.",
+            "Date": "2020-10-03"
+        },
+        {
+            "Number": "278",
+            "Content": "Una mente brillante.",
+            "Date": "2020-10-04"
+        },
+        {
+            "Number": "279",
+            "Content": "Es pronto para dejarlo a medias.",
+            "Date": "2020-10-05"
+        },
+        {
+            "Number": "280",
+            "Content": "Starseed.",
+            "Date": "2020-10-06"
+        },
+        {
+            "Number": "281",
+            "Content": "¿Una historia larga difícil de contar? \n\n#live",
+            "Date": "2020-10-07"
+        },
+        {
+            "Number": "282",
+            "Content": "Un alma que suplica por otra.",
+            "Date": "2020-10-08"
+        },
+        {
+            "Number": "283",
+            "Content": "23:23",
+            "Date": "2020-10-09"
+        },
+        {
+            "Number": "284",
+            "Content": "Todo muy TOP.",
+            "Date": "2020-10-10"
+        },
+        {
+            "Number": "285",
+            "Content": "Última etapa.",
+            "Date": "2020-10-11"
+        },
+        {
+            "Number": "286",
+            "Content": "Don’t complain.",
+            "Date": "2020-10-12"
+        },
+        {
+            "Number": "287",
+            "Content": "Pain is good.",
+            "Date": "2020-10-13"
+        },
+        {
+            "Number": "288",
+            "Content": "Ok, hold on! \n\nDo you remember when I told you ‘you¡re such a *****’?",
+            "Date": "2020-10-14"
+        },
+        {
+            "Number": "289",
+            "Content": "La templanza y armonía.",
+            "Date": "2020-10-15"
+        },
+        {
+            "Number": "290",
+            "Content": "Pinocho y Nene.",
+            "Date": "2020-10-16"
+        },
+        {
+            "Number": "291",
+            "Content": "Pérdidas de tiempo.",
+            "Date": "2020-10-17"
+        },
+        {
+            "Number": "292",
+            "Content": "Trust beyond love.",
+            "Date": "2020-10-18"
+        },
+        {
+            "Number": "293",
+            "Content": "El pensamiento revela tu destino.",
+            "Date": "2020-10-19"
+        },
+        {
+            "Number": "294",
+            "Content": "Finalmente el principio.",
+            "Date": "2020-10-20"
+        },
+        {
+            "Number": "295",
+            "Content": "Doble \n\nMark",
+            "Date": "2020-10-21"
+        },
+        {
+            "Number": "296",
+            "Content": "Dosis \n\nZuckerberg",
+            "Date": "2020-10-22"
+        },
+        {
+            "Number": "297",
+            "Content": "¿Qué se siente al saber que no lo sientes?",
+            "Date": "2020-10-23"
+        },
+        {
+            "Number": "298",
+            "Content": "He pasta away.",
+            "Date": "2020-10-24"
+        },
+        {
+            "Number": "299",
+            "Content": "Pensar y pensar en qué hago mal y no encontrar la respuesta – eso pensé.",
+            "Date": "2020-10-25"
+        },
+        {
+            "Number": "300",
+            "Content": "Se acercó con sentimientos vacíos, a paso lente y ojos apagados.",
+            "Date": "2020-10-26"
+        },
+        {
+            "Number": "301",
+            "Content": "Corriendo cómo si se me fuese la vida en ello, sin saber hacía dónde dirigirme.",
+            "Date": "2020-10-27"
+        },
+        {
+            "Number": "302",
+            "Content": "Recordando a fotogramas mientras dormía.",
+            "Date": "2020-10-28"
+        },
+        {
+            "Number": "303",
+            "Content": "Next blue moon.",
+            "Date": "2020-10-29"
+        },
+        {
+            "Number": "304",
+            "Content": "It is what it is.",
+            "Date": "2020-10-30"
+        },
+        {
+            "Number": "305",
+            "Content": "Corazón fuera. Acciona.",
+            "Date": "2020-10-31"
+        },
+        {
+            "Number": "306",
+            "Content": "Es un número que no se va a repetir.",
+            "Date": "2020-11-01"
+        },
+        {
+            "Number": "307",
+            "Content": "Uno no consume lo que produce.",
+            "Date": "2020-11-02"
+        },
+        {
+            "Number": "308",
+            "Content": "Porque no hay nadie cómo yo.",
+            "Date": "2020-11-03"
+        },
+        {
+            "Number": "309",
+            "Content": "Se profesional. \n\n¡Respétate!",
+            "Date": "2020-11-04"
+        },
+        {
+            "Number": "310",
+            "Content": "Lo que no te conviene.",
+            "Date": "2020-11-05"
+        },
+        {
+            "Number": "311",
+            "Content": "Así dice El Dictador.",
+            "Date": "2020-11-06"
+        },
+        {
+            "Number": "312",
+            "Content": "Salvada otra vez.",
+            "Date": "2020-11-07"
+        },
+        {
+            "Number": "313",
+            "Content": "Paro el tiempo.",
+            "Date": "2020-11-08"
+        },
+        {
+            "Number": "314",
+            "Content": "Aquí vamos de nuevo.",
+            "Date": "2020-11-09"
+        },
+        {
+            "Number": "315",
+            "Content": "¿Te imaginas hacer algo de eso?",
+            "Date": "2020-11-10"
+        },
+        {
+            "Number": "316",
+            "Content": "¿Te subes encima mía?",
+            "Date": "2020-11-11"
+        },
+        {
+            "Number": "317",
+            "Content": "Cuidado al despertar el corazón de una persona.",
+            "Date": "2020-11-12"
+        },
+        {
+            "Number": "318",
+            "Content": "Todo entra con calma.",
+            "Date": "2020-11-13"
+        },
+        {
+            "Number": "319",
+            "Content": "Admitámoslo, no lo dejemos para otro día.",
+            "Date": "2020-11-14"
+        },
+        {
+            "Number": "320",
+            "Content": "Algo común siendo único.",
+            "Date": "2020-11-15"
+        },
+        {
+            "Number": "321",
+            "Content": "No tener ideas suele ser un problema.",
+            "Date": "2020-11-16"
+        },
+        {
+            "Number": "322",
+            "Content": "Te invito.",
+            "Date": "2020-11-17"
+        },
+        {
+            "Number": "323",
+            "Content": "En encuentro de dos almas y su infinito.",
+            "Date": "2020-11-18"
+        },
+        {
+            "Number": "324",
+            "Content": "Hay diferentes maneras de enamorarse.",
+            "Date": "2020-11-19"
+        },
+        {
+            "Number": "325",
+            "Content": "La frase que te alegrará el día.",
+            "Date": "2020-11-20"
+        },
+        {
+            "Number": "326",
+            "Content": "Un líquido transparente.",
+            "Date": "2020-11-21"
+        },
+        {
+            "Number": "327",
+            "Content": "Todos los días es la misma pregunta.",
+            "Date": "2020-11-22"
+        },
+        {
+            "Number": "328",
+            "Content": "Tarde o temprano tocará que hacerlo.",
+            "Date": "2020-11-23"
+        },
+        {
+            "Number": "329",
+            "Content": "Una historia mal contada conlleva malas consecuencias.",
+            "Date": "2020-11-24"
+        },
+        {
+            "Number": "330",
+            "Content": "Curvas aproximándose.",
+            "Date": "2020-11-25"
+        },
+        {
+            "Number": "331",
+            "Content": "Cada uno imagina a su Dios a su imagen y semejanza.",
+            "Date": "2020-11-26"
+        },
+        {
+            "Number": "332",
+            "Content": "Tú y yo.",
+            "Date": "2020-11-27"
+        },
+        {
+            "Number": "333",
+            "Content": "Inevitable.",
+            "Date": "2020-11-28"
+        },
+        {
+            "Number": "334",
+            "Content": "Soy tóxico, ¿Y?",
+            "Date": "2020-11-29"
+        },
+        {
+            "Number": "335",
+            "Content": "Esto aún no acaba.",
+            "Date": "2020-11-30"
+        },
+        {
+            "Number": "336",
+            "Content": "Esperaba éste momento.",
+            "Date": "2020-12-01"
+        },
+        {
+            "Number": "337",
+            "Content": "Léelo cómo más te guste.",
+            "Date": "2020-12-02"
+        },
+        {
+            "Number": "338",
+            "Content": "Me va mal, me rio. \nMe estreso, me rio. \nMe agobio, me rio. \nEstoy loco, me rio. \n\n¡HAHAHAHA!",
+            "Date": "2020-12-03"
+        },
+        {
+            "Number": "339",
+            "Content": "Ganas.",
+            "Date": "2020-12-04"
+        },
+        {
+            "Number": "340",
+            "Content": "Un sitio en la sombra.",
+            "Date": "2020-12-05"
+        },
+        {
+            "Number": "341",
+            "Content": "Los secretos tiene  un coste.",
+            "Date": "2020-12-06"
+        },
+        {
+            "Number": "342",
+            "Content": "Sanación y orientación",
+            "Date": "2020-12-07"
+        },
+        {
+            "Number": "343",
+            "Content": "Los siento por todo.",
+            "Date": "2020-12-08"
+        },
+        {
+            "Number": "344",
+            "Content": "Yo si te lo hubiese dicho.",
+            "Date": "2020-12-09"
+        },
+        {
+            "Number": "345",
+            "Content": "Tengo algo qué decirte, ven.",
+            "Date": "2020-12-10"
+        },
+        {
+            "Number": "346",
+            "Content": "Lo nuevo y lo viejo.",
+            "Date": "2020-12-11"
+        },
+        {
+            "Number": "347",
+            "Content": "Jeje…",
+            "Date": "2020-12-12"
+        },
+        {
+            "Number": "348",
+            "Content": "Music.",
+            "Date": "2020-12-13"
+        },
+        {
+            "Number": "349",
+            "Content": "El único problema matemático entre tú y yo, es que siempre hubo un tercero.",
+            "Date": "2020-12-14"
+        },
+        {
+            "Number": "350",
+            "Content": "Siempre lo hice. \n\nSiempre lo hago. \n\nSiempre lo haré.",
+            "Date": "2020-12-15"
+        },
+        {
+            "Number": "351",
+            "Content": "Tantas ganas.",
+            "Date": "2020-12-16"
+        },
+        {
+            "Number": "352",
+            "Content": "No lo expreso, pero, lo siento. \n\nNo sé si me explico.",
+            "Date": "2020-12-17"
+        },
+        {
+            "Number": "353",
+            "Content": "Hoy por ti, mañana por los dos.",
+            "Date": "2020-12-18"
+        },
+        {
+            "Number": "354",
+            "Content": "#Nohayvidasinagua",
+            "Date": "2020-12-19"
+        },
+        {
+            "Number": "355",
+            "Content": "Tanta tranquilidad, que parece experta.",
+            "Date": "2020-12-20"
+        },
+        {
+            "Number": "356",
+            "Content": "Uno más para completar.",
+            "Date": "2020-12-21"
+        },
+        {
+            "Number": "357",
+            "Content": "¿Lo intentamos?",
+            "Date": "2020-12-22"
+        },
+        {
+            "Number": "358",
+            "Content": "Casa.",
+            "Date": "2020-12-23"
+        },
+        {
+            "Number": "359",
+            "Content": "Feliz Navidad.",
+            "Date": "2020-12-24"
+        },
+        {
+            "Number": "360",
+            "Content": "Cientos de miles de millones.",
+            "Date": "2020-12-25"
+        },
+        {
+            "Number": "361",
+            "Content": "La persona cambia, cambia sabiendo que quiere mejorar, sinónimo de evolucionar. \n\nEse proceso se ve corto a larga distancia, sabiendo que hay rutas alternativas. Y sí, todos y todas cambiamos, sea hoy o mañana, con el fin de estar  agusto con uno mismo. \n\nEsto va dirigido a ti y aquellas que te quieren ver feliz.",
+            "Date": "2020-12-26"
+        },
+        {
+            "Number": "362",
+            "Content": "Hablemos sobre El tiempo y llamémosle, Dios. \n\nActualmente presente en nuestro día a día, ese que nos controla y no nos da opciones. Siendo caritativo, pero… ¿ladrón? Nos equivocamos, él es así. \n\n¿Quieres controlarle de alguna manera? Mantente despierto. \n\n¿Tiene sentido? Compruébalo tú mismo.",
+            "Date": "2020-12-27"
+        },
+        {
+            "Number": "363",
+            "Content": "Este jurado te declara inocente \n\nA falta de experiencia, eres inocente. \nA falta de modales, eres inocente. \nA falta de oportunidades, eres inocente. \n\nHay mil y un razones para ser inocente pero, no para que te lo adjudiques.",
+            "Date": "2020-12-28"
+        },
+        {
+            "Number": "364",
+            "Content": "Hagamos que sea algo duradero y no llevadero. \n\nNaturaleza divina, \nEsos encantos que traes, \nNos hace felices. \nEncantadísimo de conocerte.",
+            "Date": "2020-12-29"
+        },
+        {
+            "Number": "365",
+            "Content": "Sinceremonos el uno con el otro, digamos verdades y no frases sacadas de un libro, porque hoy, estamos aquí por algo. \n\nPalabras sacadas del alma con miradas anidadas. \n\nCreemos un historia con final feliz, tan feliz, que marque un comienzo.",
+            "Date": "2020-12-30"
+        },
+        {
+            "Number": "366",
+            "Content": "Por último, cumplir ese viaje de fantasía, Tailandia. \n\nAquella persona que llega en perfecta armonía, encontrando cierto lugar como Elysian. \n\nEjem. - Disculpen los modales de éste gilipollas.",
+            "Date": "2020-12-31"
+        }
+    ]
+}

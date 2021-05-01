@@ -1,0 +1,13 @@
+{
+    "menu.brand": "VoidToInfinite",
+    "menu.home": "Home",
+
+    "presentation.title": "days",
+    "presentation.subtitle": "Hi! I'm",
+    "presentation.text": "Currently I'm Junior Web Developer belonging to the team of VoidToInfinite Project.",
+
+    "card.index": "{number} of 366",
+    "card.text": "Text not found",
+
+    "footer.copy": "VoidToInfinite © 2021 by {name}"
+}

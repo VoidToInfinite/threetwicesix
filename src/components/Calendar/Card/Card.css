@@ -1,0 +1,84 @@
+.card {
+    /* background */
+    background-color: var(--primary-color);
+    /* box-sizing */
+    min-height: 200px;
+    width: 300px;
+    padding: 1rem;
+    /* border */
+    border-radius: 20px;
+    border: 1px solid var(--border-color);
+    /*  */
+    box-shadow: var(--box-shadow);
+    /* display */
+    flex-flow: column;
+}
+
+.card__title {
+    /* box-sizing */
+    height: auto;
+    /* text */
+    text-align: left;
+}
+
+.card__title h2 {
+    /* box-sizing */
+    width: auto;
+    padding: 0.5rem 1rem;
+    /* background */
+    background-color: var(--ancent-color);
+    /* border */
+    border-radius: 10px;
+    /* font */
+    font-size: 18px;
+    /* text */
+    color: var(--secundary-color);
+}
+
+.card__text {
+    /* box-sizing */
+    height: 100%;
+    padding: 1em 0;
+    /* display */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /*  */
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -o-pre-wrap;
+}
+
+.card__text p {
+    /* box-sizing */
+    /* font */
+    font-size: 1.2rem;
+    /* text */
+    text-align: center;
+    line-height: 1.6rem;
+    /* text */
+    color: var(--secundary-color);
+}
+
+.card__date {
+    /* box-sizing */
+    height: auto;
+    /* display */
+    align-self: flex-end;
+    /* text */
+    text-align: right;
+}
+
+.card__date p {
+    /* box-sizing */
+    padding: .5rem .5rem;
+    /* background */
+    background-color: var(--ancent-shadow-color);
+    /* border */
+    border-radius: 10px;
+    /* font */
+    font-size: 12px;
+    font-weight: 600;
+    /* text */
+    color: var(--secundary-color);
+}

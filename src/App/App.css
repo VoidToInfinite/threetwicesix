@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+:root {
+    --primary-color: #fff;
+    --secundary-color: #1f1f1f;
+    --primary-background-color: #eef1f5;
+    --secundary-background-color: #1f1f1f linear-gradient(to bottom, #151515, #1f1f1f);
+    --ancent-color: #A0D2DB;
+    --ancent-shadow-color: #BEE7E8;
+    --border-color: #e4e4e4;
+    --box-shadow: 0 22px 40px rgba(17, 96, 96, 0.12);
+}
+
+.dark-theme {
+    --primary-color: #1f1f1f;
+    --secundary-color: #fff;
+    --primary-background-color: #1f1f1f linear-gradient(to bottom, #151515, #1f1f1f);
+    --secundary-background-color: #eef1f5 ;
+    --ancent-color: #39737e;
+    --ancent-shadow-color: #5a8f92;
+    --border-color: #242424;
+    --box-shadow: 0 10px 15px rgba(0, 0, 0, 0.3);
+}
+
+body::-webkit-scrollbar {
+width: 11px;
+}
+body {
+scrollbar-width: thin;
+scrollbar-color:  var(--ancent-color) var(--primary-color);
+}
+body::-webkit-scrollbar-track {
+background: var(--primary-color);
+}
+body::-webkit-scrollbar-thumb {
+background-color: var(--ancent-color);
+border-radius: 6px;
+border: 1px solid var(--border-color);
+}
+
+/* Reset all pressets */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Smoth transitions */
+html {
+    scroll-behavior: smooth;
+}
+/* Font family of the body */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    background: var(--primary-background-color);
+}
+
+/* DYSPLAYS */
+.d-grid {
+    display: grid;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.d-none {
+    display: none;
+}
+
+.d-fixed {
+    display: fixed;
+}
+
+.aling-items--center {
+    align-items: center;
+}
+
+.justify-content--center {
+    justify-content: center;
+}
+
+.fb-10 {
+    flex-basis: 10%;
+}
+
+.fb-25{
+    flex-basis: 25%;
+}
+
+.fb-50 {
+    flex-basis: 50%;
+}
+
+.fb-75 {
+    flex-basis: 75%;
+}
+
+.fb-100 {
+    flex-basis: 100%;
+}
+
+.fb-auto {
+    flex-basis: auto;
+}
+
+/* WIDTHs */
+.w-auto {
+    width: auto;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+/* background */
+.bg-light {
+    background-color: var(--primary-color);
+}
+.bg-dark {
+    background-color: var(--secundary-color);
+}
+
+/* TEXT */
+.text-light {
+    color: var(--primary-color);
+}
+
+.text-dark {
+    color: var(--secundary-color);
+}
+
+/* SAHDOWS */
+.natural-shadow {
+    box-shadow: 0 22px 40px rgba(17, 96, 96, 0.12);
+}
+
+.soft-shadow {
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.3);
+}
+/* MEDIA QUERIES */
+@media screen and (min-width: 480px) {}
+
+@media screen and (min-width: 768px) {}
+
+@media screen and (min-width: 992px) {}
+
+@media screen and (min-width: 1200px) {}

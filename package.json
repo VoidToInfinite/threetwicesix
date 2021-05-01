@@ -1,0 +1,66 @@
+{
+    "name": "threetwicesix",
+    "version": "1.0.0",
+    "description": "VoidToInfinite project called threetwicesix about dvoids 2020",
+    "main": "index.js",
+    "scripts": {
+        "start": "parcel ./public/index.html --open",
+        "lint": "eslint --fix src/**/*.{js,jsx}",
+        "format": "prettier --write \"*.{js,jsx,json,css}\""
+    },
+    "keywords": [
+        "parcel",
+        "react"
+    ],
+    "author": "DVOID",
+    "license": "ISC",
+    "dependencies": {
+        "classnames": "^2.3.1",
+        "core-js": "^3.11.0",
+        "htmlparser2": "^3.10.1",
+        "husky": "^6.0.0",
+        "lint-staged": "^10.5.4",
+        "prettier": "^2.2.1",
+        "prop-types": "^15.7.2",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "react-intl": "^5.16.0",
+        "react-router-dom": "^5.2.0"
+    },
+    "devDependencies": {
+        "eslint": "^7.25.0",
+        "eslint-config-airbnb": "^18.2.1",
+        "eslint-plugin-import": "^2.22.1",
+        "eslint-plugin-jsx-a11y": "^6.4.1",
+        "eslint-plugin-react": "^7.23.2",
+        "eslint-plugin-react-hooks": "^4.2.0",
+        "parcel-bundler": "^1.12.5"
+    },
+    "eslintConfig": {
+        "extends": "airbnb",
+        "env": {
+            "browser": true
+        },
+        "rules": {
+            "linebreak-style": "off"
+        }
+    },
+    "husky": {
+        "hooks": {
+            "pre-commit": "lint-staged"
+        }
+    },
+    "prettier": {
+        "trailingComma": "all",
+        "singleQuote": true
+    },
+    "lint-staged": {
+        "src/**/*.{js,jsx}": [
+            "npm run lint"
+        ],
+        "src/**/*.{js,jsx,json,css,scss}": [
+            "prettier --write",
+            "git add"
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+.calendar {
+    /* box-sizing */
+    min-height: 100vh;
+    /* display */
+    align-items: center;
+    flex-flow: column;
+}
+
+.calendar__selector {
+    /* box-sizing */
+    height: 15vh;
+    padding: 1rem;
+    /* display */
+    align-items: center;
+    justify-content: space-around;
+    flex-flow: row;
+    /* position */
+    position: relative;
+}
+
+.calendar__month {
+    /* box size */
+    padding: .5rem 0;
+    /* font */
+    font-size: 2.2rem;
+    font-weight: 600;
+}
+
+.calendar__month p {
+    /* text */
+    color: var(--secundary-color);
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.calendar__leftArrow,
+.calendar__rightArrow {
+    /* box-sizing */
+    height: 45px;
+    width: 45px;
+    /* background */
+    background-color: var(--ancent-color);
+    /* border */
+    border-radius: 50%;
+    /* cursor */
+    cursor: pointer;
+    /* position */
+    position: relative;
+}
+
+.calendar__leftArrow::before,
+.calendar__leftArrow::after,
+.calendar__rightArrow::before,
+.calendar__rightArrow::after {
+    content: '';
+    /* box-sizing */
+    height: 4px;
+    width: 15px;
+    background-color: var(--secundary-color);
+    /* border */
+    border-radius: 15px;
+    /* position */
+    position: absolute;
+}
+
+.calendar__leftArrow::after {
+    /* transform */
+    transform: rotate(225deg);
+    /* position */
+    top: 57%;
+    left: 29%;
+}
+
+.calendar__leftArrow::before {
+    /* transform */
+    transform: rotate(135deg);
+    /* position */
+    top: 36%;
+    left: 29%;
+}
+
+.calendar__rightArrow::after {
+    /* transform */
+    transform: rotate(135deg);
+    /* position */
+    top: 57%;
+    left: 35%;
+}
+
+.calendar__rightArrow::before {
+    /* transform */
+    transform: rotate(225deg);
+    /* position */
+    top: 36%;
+    left: 35%;
+}
+
+.calendar__grid {
+    /* box-sizing */
+    padding: 1em 1.25em;
+    /* display */
+    justify-items: center;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-rows: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 2.5rem;
+}
+
+/* MEDIA QUERIES */
+@media screen and (min-width: 480px) {}
+
+@media screen and (min-width: 768px) {}
+
+@media screen and (min-width: 992px) {}
+
+@media screen and (min-width: 1200px) {
+
+    .calendar__selector {
+        /* display */
+        justify-content: space-evenly;
+    }
+    
+}
