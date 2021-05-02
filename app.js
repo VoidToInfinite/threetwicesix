@@ -1,7 +1,7 @@
 //
 // Window load event
 //
-window.addEventListener('DOMContentLoaded', () => {
+window.addEventListener('load', () => {
     //
     // Global variables
     //
