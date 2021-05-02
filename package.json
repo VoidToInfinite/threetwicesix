@@ -1,7 +1,7 @@
 {
     "homepage": "https://demosquerag.github.io/threetwicesix",
     "name": "threetwicesix",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "VoidToInfinite project called threetwicesix about 366 days",
     "main": "index.js",
     "type": "module",
