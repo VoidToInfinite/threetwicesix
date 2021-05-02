@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/threetwicesix/static/css/main.b0537ce3.chunk.css",
-    "main.js": "/threetwicesix/static/js/main.55850de3.chunk.js",
-    "main.js.map": "/threetwicesix/static/js/main.55850de3.chunk.js.map",
+    "main.css": "/threetwicesix/static/css/main.6afe9b45.chunk.css",
+    "main.js": "/threetwicesix/static/js/main.1be13879.chunk.js",
+    "main.js.map": "/threetwicesix/static/js/main.1be13879.chunk.js.map",
     "runtime-main.js": "/threetwicesix/static/js/runtime-main.7ad063a6.js",
     "runtime-main.js.map": "/threetwicesix/static/js/runtime-main.7ad063a6.js.map",
     "static/js/2.26942fd8.chunk.js": "/threetwicesix/static/js/2.26942fd8.chunk.js",
     "static/js/2.26942fd8.chunk.js.map": "/threetwicesix/static/js/2.26942fd8.chunk.js.map",
     "index.html": "/threetwicesix/index.html",
-    "static/css/main.b0537ce3.chunk.css.map": "/threetwicesix/static/css/main.b0537ce3.chunk.css.map",
+    "static/css/main.6afe9b45.chunk.css.map": "/threetwicesix/static/css/main.6afe9b45.chunk.css.map",
     "static/js/2.26942fd8.chunk.js.LICENSE.txt": "/threetwicesix/static/js/2.26942fd8.chunk.js.LICENSE.txt",
     "static/media/discord.e71cda2e.svg": "/threetwicesix/static/media/discord.e71cda2e.svg",
     "static/media/github.e0df113a.svg": "/threetwicesix/static/media/github.e0df113a.svg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.7ad063a6.js",
     "static/js/2.26942fd8.chunk.js",
-    "static/css/main.b0537ce3.chunk.css",
-    "static/js/main.55850de3.chunk.js"
+    "static/css/main.6afe9b45.chunk.css",
+    "static/js/main.1be13879.chunk.js"
   ]
 }

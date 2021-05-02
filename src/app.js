@@ -14,13 +14,13 @@ const checkScrollPosition = (scroll) => {
   if (isNavMobileOpen) {
     if (scroll < 300) {
       navbarMobile.classList.remove('d-flex');
-      navbarMobile.classList.add('d-hidden');
+      navbarMobile.classList.add('d-none');
     } else if (scroll >= 300 && scroll < (footer.offsetTop - 1000)) {
-      navbarMobile.classList.remove('d-hidden');
+      navbarMobile.classList.remove('d-none');
       navbarMobile.classList.add('d-flex');
     } else if (scroll > (footer.offsetTop - 1000)) {
       navbarMobile.classList.remove('d-flex');
-      navbarMobile.classList.add('d-hidden');
+      navbarMobile.classList.add('d-none');
     }
   }
 };
@@ -42,6 +42,6 @@ window.addEventListener('resize', () => {
   } else {
     isNavMobileOpen = false;
     navbarMobile.classList.remove('d-flex');
-    navbarMobile.classList.add('d-hidden');
+    navbarMobile.classList.add('d-none');
   }
 });
