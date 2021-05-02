@@ -70,6 +70,10 @@ body{
     display: none;
 }
 
+.d-hidden {
+    display: hidden;
+}
+
 .d-fixed {
     display: fixed;
 }

@@ -21,7 +21,7 @@ const NavMobile = ({ darkMode, onNewDarkMode }) => {
   const idioma = useContext(langContext);
 
   return (
-    <div className="nav-mobile d-none">
+    <div className="nav-mobile d-hidden">
       <div className="nav-mobile__item nav-mobile__item--home">
         <button
           type="button"
