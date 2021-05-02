@@ -17,13 +17,14 @@
 
 .footer__social__item {
     /* background */
-    background-color: var(--ancent-color);
+    background-color: #eef1f5;
     /* box size */
     height: 45px;
     width: 45px;
     margin: 0 1rem;
     /* border */
-    border-radius: 15px;
+    border-radius: 12px;
+    border: 1px solid var(--border-color);
     /* display */
     display: flex;
     align-items: center;

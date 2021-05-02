@@ -14,6 +14,7 @@ const langContext = React.createContext();
 const LangProvider = ({ children }) => {
   let defaultLocale;
   let defaultMessages;
+
   const lang = localStorage.getItem('lang');
 
   if (lang) {
@@ -27,6 +28,9 @@ const LangProvider = ({ children }) => {
       defaultLocale = 'es-ES';
       defaultMessages = LangES;
     }
+  } else {
+    defaultLocale = 'es-ES';
+    defaultMessages = LangES;
   }
 
   const [messages, setMessages] = useState(defaultMessages);
