@@ -122,4 +122,8 @@
         /*  */
         cursor: pointer;
     }
+
+    .nav-bar__item--theme button img {
+        width: 100%;
+    }
 }

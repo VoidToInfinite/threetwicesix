@@ -1,7 +1,7 @@
 {
     "homepage": "https://voidtoinfinite.github.io/threetwicesix",
     "name": "threetwicesix",
-    "version": "1.1.0",
+    "version": "1.2.1",
     "description": "VoidToInfinite project called threetwicesix about 366 days",
     "main": "index.js",
     "type": "module",
