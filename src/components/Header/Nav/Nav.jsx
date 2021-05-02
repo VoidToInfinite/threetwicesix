@@ -24,7 +24,7 @@ const Nav = ({ darkMode, onNewDarkMode }) => {
     <nav className="nav nav-bar d-flex aling-items--center justify-content--center w-100">
       <div className="nav-bar__logo">
         <p className="nav-bar__brand">
-          <Link className="text-dark" to="/">
+          <Link className="text-dark" to="/threetwicesix/">
             <FormattedMessage
               id="menu.brand"
               defaultMessage="VoidToInfinite"
